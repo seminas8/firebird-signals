@@ -1,3 +1,13 @@
 {
   "signals": [
     {
+      "type": "LONG",
+      "symbol": "XAUUSD",
+      "entry": "4306.23",
+      "sl": "4241.64",
+      "tp": "4435.42",
+      "timestamp": "2025-12-12T18:23:49.863Z"
+    }
+  ],
+  "lastUpdate": 1765563830234
+}
