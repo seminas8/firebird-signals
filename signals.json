@@ -3,14 +3,6 @@
     {
       "type": "SHORT",
       "symbol": "XAUUSD",
-      "entry": "4307.89",
-      "sl": "4372.51",
-      "tp": "4178.65",
-      "timestamp": "2025-12-12T18:39:41.159Z"
-    },
-    {
-      "type": "SHORT",
-      "symbol": "XAUUSD",
       "entry": "4305.52",
       "sl": "4370.10",
       "tp": "4176.35",
@@ -401,6 +393,15 @@
       "sl": "4378.90",
       "tp": "4184.76",
       "timestamp": "2025-12-13T12:42:52.997Z"
+    },
+    {
+      "strategy": "goat",
+      "type": "LONG",
+      "symbol": "XAUUSD",
+      "entry": "4314.10",
+      "sl": "4249.39",
+      "tp": "4443.52",
+      "timestamp": "2025-12-13T12:44:06.370Z"
     }
   ],
   "lastUpdate": 1765614054389
