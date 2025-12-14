@@ -1,14 +1,6 @@
 {
   "signals": [
     {
-      "type": "SHORT",
-      "symbol": "XAUUSD",
-      "entry": "4311.14",
-      "sl": "4375.81",
-      "tp": "4181.81",
-      "timestamp": "2025-12-12T22:25:44.775Z"
-    },
-    {
       "type": "LONG",
       "symbol": "XAUUSD",
       "entry": "4311.85",
@@ -428,6 +420,15 @@
       "sl": "4387.18",
       "tp": "4192.67",
       "timestamp": "2025-12-14T19:32:50.688Z"
+    },
+    {
+      "strategy": "firebird",
+      "type": "LONG",
+      "symbol": "XAUUSD",
+      "entry": "4320.80",
+      "sl": "4255.99",
+      "tp": "4450.42",
+      "timestamp": "2025-12-14T20:15:50.453Z"
     }
   ],
   "lastUpdate": 1765614054389
