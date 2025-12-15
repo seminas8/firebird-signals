@@ -4,15 +4,6 @@
       "strategy": "firebird",
       "type": "SHORT",
       "symbol": "XAUUSD",
-      "entryPrice": "4321.15",
-      "stopLoss": "4385.97",
-      "takeProfit": "4191.52",
-      "timestamp": "2025-12-14T10:29:39.169Z"
-    },
-    {
-      "strategy": "firebird",
-      "type": "SHORT",
-      "symbol": "XAUUSD",
       "entry": "4321.15",
       "sl": "4385.97",
       "tp": "4191.52",
@@ -449,6 +440,15 @@
       "sl": "4410.23",
       "tp": "4214.70",
       "timestamp": "2025-12-15T14:39:48.556Z"
+    },
+    {
+      "strategy": "firebird",
+      "type": "LONG",
+      "symbol": "XAUUSD",
+      "entry": "4346.84",
+      "sl": "4281.64",
+      "tp": "4477.25",
+      "timestamp": "2025-12-15T14:41:48.515Z"
     }
   ],
   "lastUpdate": 1765614054389
